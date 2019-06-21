@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to use ASPxCheckBox in DataItemTemplate to emulate a selection
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1559/)**
+<!-- run online end -->
 
 
 <p>The <a href="http://documentation.devexpress.com/#AspNet/CustomDocument3737">Selection</a> behavior is emulated by the ASPxCheckBox. Client-side events are set at runtime. The checkbox uses the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridViewScriptsASPxClientGridView_SelectRowOnPagetopic129">ASPxClientGridView.SelectRowOnPage</a> to set a row, where it is placed.</p>
